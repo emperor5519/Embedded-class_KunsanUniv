@@ -4,6 +4,6 @@
 <img width="50%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/node-red%20flow.png">
 
 # 노드레드 Dashboard
-<img width="50%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/node-red%20dashboard1.png">
+<center><img width="50%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/node-red%20dashboard1.png"></center>
 
-<img width="50%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/node-red%20dashboard2.png">
+<center><img width="50%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/node-red%20dashboard2.png"></center>
