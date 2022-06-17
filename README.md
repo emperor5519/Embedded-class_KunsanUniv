@@ -1,1 +1,1 @@
-# Embedded-class_Kunsan_Univ
+# Embedded-class_KunsanUniv
