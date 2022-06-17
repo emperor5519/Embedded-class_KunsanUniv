@@ -12,4 +12,4 @@
 <img width="80%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/node-red%20dashboard2.png">
 
 # 4. 동작 영상
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/tBwFnt8RhAs)
+[![Video Label]](https://youtu.be/tBwFnt8RhAs)
