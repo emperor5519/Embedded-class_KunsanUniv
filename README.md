@@ -12,6 +12,4 @@
 <img width="80%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/node-red%20dashboard2.png">
 
 # 4. 동작 영상
-<iframe width="960" height="540" src="https://youtu.be/tBwFnt8RhAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-https://youtu.be/tBwFnt8RhAs
+{% include video id="(https://youtu.be/tBwFnt8RhAs)" provider="youtube" %}
