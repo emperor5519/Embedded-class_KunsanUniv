@@ -3,7 +3,7 @@
 # 1. 프로젝트 설명
 - Jetson Nano, Arduino nano rp2040를 이용하였고 MQTT 브로커를 통해 Publish/Subscribe 한 결과를 Node-RED의 대시보드를 통해 쉽게 파악할 수 있도록 하였음.
 
-- Arduino nano rp2040을 두개 이용해 각 사용자의 움직임 상태를 실시간으로 Node-RED의 대시보드를 통해 확인할 수 있고 x, y, z축의 움직임을 게이지를 통해 보여줌.
+- Arduino nano rp2040을 두개 이용해 IMU 센서를 통해 각 사용자의 움직임 상태를 실시간으로 Node-RED의 대시보드를 통해 확인할 수 있고 x, y, z축의 움직임을 게이지를 통해 보여줌.
 
 - 젯슨 나노의 카메라를 통해 실시간 영상 스트리밍 및 검출되는 가위, 바위, 보 동작의 결과를 Node-RED를 통해 확인할 수 있음.
 
