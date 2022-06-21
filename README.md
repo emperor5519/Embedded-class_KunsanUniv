@@ -7,13 +7,17 @@
 
 - 젯슨 나노의 카메라를 통해 실시간 영상 스트리밍 및 검출되는 가위, 바위, 보 동작의 결과를 Node-RED를 통해 확인할 수 있음.
 
-# 2. 노드레드 Flow
+# 2. 블럭도
+<img width="80%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/%EB%B8%94%EB%9F%AD%EB%8F%84.png">
+
+
+# 3. 노드레드 Flow
 <img width="80%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/node-red%20flow.png">
 
-# 3. 노드레드 Dashboard
+# 4. 노드레드 Dashboard
 <img width="60%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/node-red%20dashboard1.png">
 
 <img width="80%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/node-red%20dashboard2.png">
 
-# 4. 동작 영상
+# 5. 동작 영상
 [![Video Label]](https://youtu.be/tBwFnt8RhAs)
