@@ -10,7 +10,6 @@
 # 2. 블럭도
 <img width="80%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/%EB%B8%94%EB%9F%AD%EB%8F%84.png">
 
-
 # 3. 노드레드 Flow
 <img width="80%" src="https://github.com/emperor5519/Embedded-class_KunsanUniv/blob/main/imgs/node-red%20flow.png">
 
